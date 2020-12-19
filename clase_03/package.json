@@ -1,0 +1,15 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "esta practica es solo para iniciar mis primeros pasos para programar para una pagina web",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.5.1"
+  },
+  "devDependencies": {}
+}
